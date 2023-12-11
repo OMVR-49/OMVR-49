@@ -16,7 +16,7 @@
 
 # Hello, I'm [Omar Jebbari]! 👋
 
-I'm a [Programmer] with passion . Currently, I specialize in [Competitive Programming].
+I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion for [Coding] 
 
 ## About Me
 
@@ -35,6 +35,7 @@ I'm a [Programmer] with passion . Currently, I specialize in [Competitive Progra
 - [Libft_42](https://github.com/OMVR-49/libft_42)
 - [Ft_printf_42](https://github.com/OMVR-49/ft_printf_42)
 - [Get_next_line_42](https://github.com/OMVR-49/get_next_line_42)
+- [Born2beroot] - System Administration Project 
 - [Minitalk_42](https://github.com/OMVR-49/Minitalk_42)
 - [Fract-ol_42](https://github.com/OMVR-49/fract-ol_42)
 - [Push_swap_42](https://github.com/OMVR-49/Push_swap_42)
