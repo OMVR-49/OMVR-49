@@ -18,7 +18,7 @@ I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion fo
 
 #
 
-- 📧 Email: ojebbari@student.1337.ma
+- 📧 ojebbari@student.1337.ma
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-jebbari/)
 
 ## Skills
