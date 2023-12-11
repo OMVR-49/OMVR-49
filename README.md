@@ -15,7 +15,7 @@ I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion fo
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
+#
 - 📧 Email: ojebbari@student.1337.ma
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-jebbari/)
 
