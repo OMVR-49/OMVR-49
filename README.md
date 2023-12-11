@@ -32,7 +32,8 @@ I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion fo
 
 ## Projects
 
-- [Libft_42](https://github.com/OMVR-49/libft_42)
+- [Libft_42](https://github.com/OMVR-49/libft_42) 125/100 # My Project This is some <span style="color:blue">blue</span> and <span style="color:green">green</span> text in my README.
+
 - [Ft_printf_42](https://github.com/OMVR-49/ft_printf_42)
 - [Get_next_line_42](https://github.com/OMVR-49/get_next_line_42)
 - [Born2beroot] - System Administration Project 
