@@ -30,18 +30,17 @@ I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion fo
 - Self Learning
 - System Administration
 
-## Projects
+## Projects (125 it means Bonus Part)
 
-- [Libft_42](https://github.com/OMVR-49/libft_42) 125/100 # My Project This is some <span style="color:blue">blue</span> and <span style="color:green">green</span> text in my README.
-
-- [Ft_printf_42](https://github.com/OMVR-49/ft_printf_42)
-- [Get_next_line_42](https://github.com/OMVR-49/get_next_line_42)
-- [Born2beroot] - System Administration Project 
-- [Minitalk_42](https://github.com/OMVR-49/Minitalk_42)
-- [Fract-ol_42](https://github.com/OMVR-49/fract-ol_42)
-- [Push_swap_42](https://github.com/OMVR-49/Push_swap_42)
-- [Philosophers_42](https://github.com/OMVR-49/philosophers_42)
-- [Minishell_42](https://github.com/OMVR-49/Minishell_42)
+- [Libft_42](https://github.com/OMVR-49/libft_42) 125/100
+- [Ft_printf_42](https://github.com/OMVR-49/ft_printf_42) 100/100
+- [Get_next_line_42](https://github.com/OMVR-49/get_next_line_42) 125/100
+- [Born2beroot] - System Administration Project 100/100
+- [Minitalk_42](https://github.com/OMVR-49/Minitalk_42) 125/100 
+- [Fract-ol_42](https://github.com/OMVR-49/fract-ol_42) 125/100
+- [Push_swap_42](https://github.com/OMVR-49/Push_swap_42) 125/100
+- [Philosophers_42](https://github.com/OMVR-49/philosophers_42) 100/100
+- [Minishell_42](https://github.com/OMVR-49/Minishell_42) 101/100
 
 Let's connect and collaborate!
 
