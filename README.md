@@ -14,13 +14,33 @@
 
 #
 
-<!--
+# Hello, I'm [Omar Jebbari]! 👋
 
-Here are some ideas to get you started:
+I'm a [Programmer] with passion . Currently, I specialize in [Competitive Programming].
 
-- 🔭 I’m currently working on NETPRACTICE_42
-- 🌱 I’m currently learning PROGRAMMING_SKILLS
-- 💬 Ask me about ...
-- 📫 How to reach me: **Email:** ojebbari@student.1337.ma **LinkedIn:** [OMAR JEBBARI](https://www.linkedin.com/in/omar-jebbari/)
-- 😄 Pronouns: GO4T
--->
+## About Me
+
+- 📧 Email: ojebbari@student.1337.ma
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-jebbari/)
+
+## Skills
+
+- C Programming
+- Competitive Programming
+- Self Learning
+- System Administration
+
+## Projects
+
+- [Libft_42](https://github.com/OMVR-49/libft_42)
+- [Ft_printf_42](https://github.com/OMVR-49/ft_printf_42)
+- [Get_next_line_42](https://github.com/OMVR-49/get_next_line_42)
+- [Minitalk_42](https://github.com/OMVR-49/Minitalk_42)
+- [Fract-ol_42](https://github.com/OMVR-49/fract-ol_42)
+- [Push_swap_42](https://github.com/OMVR-49/Push_swap_42)
+- [Philosophers_42](https://github.com/OMVR-49/philosophers_42)
+- [Minishell_42](https://github.com/OMVR-49/Minishell_42)
+
+Let's connect and collaborate!
+
+
