@@ -32,10 +32,10 @@ I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion fo
 
 ## Projects (125 it means Bonus Part)
 
-- [Libft_42](https://github.com/OMVR-49/libft_42) 125/100
+- [Libft_42](https://github.com/OMVR-49/libft_42) 115/100
 - [Ft_printf_42](https://github.com/OMVR-49/ft_printf_42) 100/100
 - [Get_next_line_42](https://github.com/OMVR-49/get_next_line_42) 125/100
-- [Born2beroot] - System Administration Project 100/100
+- [Born2beroot_42] - System Administration Project 110/100
 - [Minitalk_42](https://github.com/OMVR-49/Minitalk_42) 125/100 
 - [Fract-ol_42](https://github.com/OMVR-49/fract-ol_42) 125/100
 - [Push_swap_42](https://github.com/OMVR-49/Push_swap_42) 125/100
