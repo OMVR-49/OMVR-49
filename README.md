@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, I'm [Omar Jebbari]! 👋
+
+I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion for [Coding] 
+
+## About Me
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ojebbari" alt="ojebbari's 42 stats" /></a>
 ---
@@ -11,14 +15,6 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
-#
-
-# Hello, I'm [Omar Jebbari]! 👋
-
-I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) with a passion for [Coding] 
-
-## About Me
 
 - 📧 Email: ojebbari@student.1337.ma
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-jebbari/)
