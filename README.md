@@ -23,7 +23,7 @@ I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) 5th Promo (2022)
 
 ## Skills
 
-- C Programming
+- C & C++ Programming Language
 - Competitive Programming
 - Self Learning
 - System Administration
