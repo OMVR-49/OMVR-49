@@ -1,8 +1,8 @@
-# Hello, I'm [Omar Jebbari]! 👋
+# Hi there, I'm Omar Jebbari! 👋
 
 ## About Me
 
-I'm a [Student] at [1337_futureisloading](https://1337.ma/fr/) 5th Promo (2022)
+I'm a Student at [1337_futureisloading](https://1337.ma/fr/) 5th Promo (2022)
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ojebbari" alt="ojebbari's 42 stats" /></a>
 ---
