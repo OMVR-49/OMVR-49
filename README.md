@@ -39,6 +39,7 @@ I'm a Student at [1337_futureisloading](https://1337.ma/fr/) 5th Promo (2022)
 - [Push_swap_42](https://github.com/OMVR-49/Push_swap_42) 125/100
 - [Philosophers_42](https://github.com/OMVR-49/philosophers_42) 100/100
 - [Minishell_42](https://github.com/OMVR-49/Minishell_42) 101/100
+- [Net_practice_42](https://github.com/OMVR-49/Net_practice_42) 100/100
 
 Let's connect and collaborate!
 
