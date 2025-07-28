@@ -23,10 +23,11 @@ I'm a Student at [1337_futureisloading](https://1337.ma/fr/) 5th Promo (2022)
 
 ## Skills
 
-- C && C++ Programming Language , [...]
+- C && C++ && Django && React 
 - Competitive Programming
 - Self Learning
 - System Administration
+- Containerization (docker)
 
 ## Projects (125 it means Bonus Part)
 
@@ -45,4 +46,5 @@ I'm a Student at [1337_futureisloading](https://1337.ma/fr/) 5th Promo (2022)
 - ft_irc 125/100
 - Inception 100/100
 - ft_Transcendence 125/100
+  
 Let's connect and collaborate!
